@@ -1,4 +1,4 @@
-package base.udp;
+package base.udp.broadcast;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

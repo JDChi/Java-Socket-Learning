@@ -1,4 +1,4 @@
-package base.udp;
+package base.udp.broadcast;
 
 import javax.net.ssl.SNIHostName;
 
